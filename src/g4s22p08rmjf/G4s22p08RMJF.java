@@ -9,7 +9,7 @@ package g4s22p08rmjf;
  *
  * @author Ana Cecilia
  */
-public class G4s22p08HRLF {
+public class G4s22p08RMJF {
 
     /**
      * @param args the command line arguments
